@@ -1,4 +1,4 @@
-# SFTP Deploy action
+# SB SFTP Deploy action
 
 > Use this action to deploy your files to server using `SSH Private Key`
 
